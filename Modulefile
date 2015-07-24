@@ -1,0 +1,8 @@
+name    'mms'
+version '0.1.1'
+source 'git@github.com:francetv/puppet-mms.git'
+author 'btl'
+license 'MIT'
+summary 'UNKNOWN'
+description 'UNKNOWN'
+project_page 'https://github.com/francetv/puppet-mms'
